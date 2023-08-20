@@ -1,6 +1,6 @@
 # Traffic-light-control
-Group: C
-##Members: 
+## Group: C
+## Members: 
 Youssef Khaled Ahmed -> code: 558 <br />
 Mark Ehab            -> code: 201 <br />
 Hazem Mohamed        -> code: 1297 <br />
