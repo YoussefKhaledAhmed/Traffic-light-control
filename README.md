@@ -1,2 +1,10 @@
 # Traffic-light-control
-controlling traffic light using ATMEGA32.
+Group: C
+Members: Youssef Khaled Ahmed -> code: 558
+         Mark Ehab            -> code: 201
+         Hazem Mohamed        -> code: 1297
+Project videos link:[a link](https://drive.google.com/drive/folders/1z5pV-ZOQ4_Oc_GvNU5xb3_KsFEYT7HRE?usp=sharing)
+project description: 
+1. MCAL: dio driver, external interrupt driver.
+2. HAL: button driver, LCD driver, LED driver.
+3. App: project main source and header files.
