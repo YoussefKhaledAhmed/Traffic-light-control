@@ -12,9 +12,9 @@
 #define TRAFFICCONTROLLIGHT_H_
 
 /* files to include */
-#include "button.h" /* header file of the button module */
-#include "led.h" /* header for the led module */
-#include "lcd.h" /* header for the LCD module */
+#include "../HAL/button.h" /* header file of the button module */
+#include "../HAL/led.h" /* header for the led module */
+#include "../HAL/lcd.h" /* header for the LCD module */
 #include <util/delay.h> /* header to use the delay functions */
 
 #define NUM_OF_SEC 5 /* number of seconds to blink */

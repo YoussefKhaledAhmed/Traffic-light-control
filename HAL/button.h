@@ -14,8 +14,8 @@
 /* including the dio.h for setting the direction of the pin and external      *
  * interrupt header file to initialize the external interrupt and the global  *
  * interrupt.                                                                 */
-#include "dio.h"
-#include "external_interrupt.h"
+#include "../MCAL/dio.h"
+#include "../MCAL/external_interrupt.h"
 
 void BUTTON_init(); /* initializing the button */
 

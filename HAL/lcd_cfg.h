@@ -8,8 +8,8 @@
 #define LCD_CFG_H_
 
 /* including the standard types header file and the dio header file */
-#include "standardTypes.h"
-#include "dio.h"
+#include "../MCAL/standardTypes.h"
+#include "../MCAL/dio.h"
 
 /* configuring the ports where the command and data pins of the  *
  * LCD is connected.                                             */
